@@ -9,3 +9,6 @@
 If the plane lands on stop, it cannot be killed.
 
 To kill another color’s plane, you have to make your plane land on that box where other colored plane is.
+
+If there are two planes of the same color on top of each other than that plane cannot be killed.
+
